@@ -1,0 +1,82 @@
+    @media screen and (max-width: 600px) {
+        body {
+            width: 100%;
+            height: auto;
+            background-color: lightsalmon;
+            font-size: 2.4vw;
+        }
+    }
+    
+    @media screen and (min-width: 992px) {
+        body {
+            font-size: 2.2vh;
+            height: 768px;
+            width: 1366;
+        }
+    }
+    
+    body {
+        padding: 0;
+        border: 3px solid black;
+        margin: 0;
+    }
+    
+    .width-height {}
+    
+    .header {
+        display: block;
+        background-color: rgb(42, 68, 83);
+        padding: 0.5rem;
+    }
+    
+    h1 {
+        padding: 0rem;
+        padding: 1rem;
+        text-align: center;
+        margin: 2rem 8rem;
+        background-color: white;
+    }
+    
+    .symbol {
+        width: 2%;
+        height: auto;
+        padding: 0;
+        margin: 0;
+    }
+    
+    main {}
+    
+    .blue-background {
+        background-color: lightblue;
+    }
+    
+    main {
+        display: flex;
+    }
+    
+    .contact-profile,
+    .skills {
+        padding: 1rem;
+    }
+    
+    .education {
+        padding: 6rem 0.5rem;
+    }
+    
+    .profile,
+    .experience {
+        margin: 2rem;
+    }
+    
+    .white-background {
+        border: 2px solid black;
+    }
+    
+    h4,
+    h3,
+    h2 {
+        padding-bottom: 1rem;
+        border-bottom: 1px solid black;
+    }
+    
+    .symbol {}
